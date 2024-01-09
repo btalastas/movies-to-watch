@@ -9,4 +9,11 @@ Download dataset and create a "data" directory and extract the zipped file into 
     - credits.csv: Consists of cast and crew info for all movies in dataset. Available in the form of a stringified JSON.
     - links.csv: Contains the TMDB and IMDB IDs of all the movies.
     - links_small.csv: Similar to links.csv except it contains a subset of 9,000 movies.
-    - ratings_small.csv: 100,000 ratings from 700 users on 9,000 movies. 
+    - ratings_small.csv: 100,000 ratings from 700 users on 9,000 movies.
+
+## movie-app
+
+- next js application
+- browse different imdb movies
+- create account and add movies to your watchlist
+- rate and comment movies you watched
